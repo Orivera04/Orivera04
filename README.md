@@ -37,5 +37,3 @@ If you'd like to talk to me about a project or just want to say hello, feel free
 - LinkedIn: [https://www.linkedin.com/in/oscar-rivera-moreira-524173157/]
 
 Thanks for visiting my Github profile! Have a great day. 😄
-
-- https://github-readme-stats.vercel.app/api?username=orivera04&show_icons=true&theme=dracula&count_private=true&locale=en
