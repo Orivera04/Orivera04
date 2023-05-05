@@ -7,7 +7,7 @@
 
 ![Ruby](https://img.shields.io/badge/Ruby-3.2.2-red)
 ![Rails](https://img.shields.io/badge/Rails-7.0.4.3-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0.23-blue)
 ![React](https://img.shields.io/badge/React-18-blueviolet)
 ![Node.js](https://img.shields.io/badge/Node.js-18.16.0-green)
