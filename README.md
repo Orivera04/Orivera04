@@ -16,6 +16,7 @@
 
 - [GLOCSE](https://github.com/Orivera04/Glocse) - An application for geolocalize electric substations
 - [Ruby-lexical](https://github.com/Orivera04/Analizador-Lexico-Ruby-) - An application that is a lexical analyzer of ruby
+- [Reminders-API](https://github.com/Orivera04/Reminders-API) - API for setting reminders and sending them via Telegram.
 
 ## 💼 Work Experience
 
